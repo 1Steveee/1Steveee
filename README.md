@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 🤝 I’m looking for help with **Python web monitors**
+- 🤝 I’m looking for help with **Python web security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1Steveee](https://github.com/1Steveee)
 
