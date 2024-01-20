@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1Steveee](https://github.com/1Steveee)
 
-- ⚡ Fun fact **I am bilingual. I love basketball, NFT, and Cryptos.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
